@@ -1,8 +1,6 @@
 <?php
-$dev = "hello world";  
+$dev = "hello world";
+$nome = "eu sou o Rossetti";
 echo $dev; 
-echo"eu gosto de banana";
-
-
-
+echo $nome;
 ?> 
